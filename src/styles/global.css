@@ -1,0 +1,47 @@
+.Polaris-Navigation__PrimaryNavigation {
+  justify-content: space-between;
+}
+.btn-filter .Polaris-Button {
+  width: 106px;
+}
+.date-filter {
+  margin-bottom: 16px;
+}
+.Polaris-Popover__PopoverOverlay {
+  width: fit-content !important;
+}
+.chart-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.chart-wrapper .Polaris-ShadowBevel {
+  flex: 1 1 40%;
+  box-sizing: border-box;
+}
+.justify-center {
+  display: flex;
+  justify-content: center;
+}
+.justify-end {
+  display: flex;
+  justify-content: flex-end;
+}
+.item-center {
+  display: flex;
+  align-items: center;
+}
+.gap-4 {
+  gap: 16px;
+}
+.mt-2 {
+  margin-top: 8px;
+}
+.my-4 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.textField-date .Polaris-TextField__Input {
+  display: block;
+}
